@@ -1,0 +1,10 @@
+{
+    "name": "Mithu",
+    "nav" : {
+        "New" : "new.html",
+        "Deals" : "deals.html",
+        "Men" : "men.html",
+        "Women" : "women.html",
+        "Kids" : "kids.html"
+    }
+}
