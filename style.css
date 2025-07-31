@@ -83,35 +83,10 @@ a {
 	flex-direction: row;
 }
 
-.TLT,
-.BR {
-	font-size: 18.125rem;
-}
-
-.TRBL,
-.BLT {
-	font-size: 15rem;
-}
-
-.TLB,
-.BLB {
-	font-size: 3rem;
-}
-
-.TRT {
-	font-size: 4rem;
-}
-
-.TRBRT,
-.TRBRM,
-.TRBRB {
-	font-size: 4.5rem;
-}
 
 .TLT,
 .BR {
 	font-size: 22rem; /* was 18.125rem */
-	display: block;
 }
 
 .TRBL,
