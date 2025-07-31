@@ -2,12 +2,17 @@
 
 :root {
 	--color-bg: hsl(0, 0%, 10%);
+	--color-bg-sub: hsl(0, 0%, 5%);
 	--color-fg: hsl(0, 0%, 90%);
+	--color-fg-sub: hsl(0, 0%, 70%);
 	--color-acc: #e6521f;
 
 	--font-logo: "Major Mono Display";
 	--font-text: "Poppins";
 	--font-hero: "Anton";
+
+	--padding-banner: 2rem;
+
 }
 
 * {
@@ -83,7 +88,6 @@ a {
 	flex-direction: row;
 }
 
-
 .TLT,
 .BR {
 	font-size: 22rem; /* was 18.125rem */
@@ -138,3 +142,67 @@ a {
 	cursor: pointer;
 	color: var(--color-acc);
 }
+
+/*#########################*/
+.banner {
+	margin: 1rem 5rem;
+	padding: var(--padding-banner);
+	display: flex;
+	border: var(--color-fg-sub) solid 1px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.bannerReverse {
+	flex-direction: row-reverse;
+}
+
+.bannerText {
+	max-width: 60%;
+	word-wrap: wrap;
+	width: var(--width-banner-text);
+	display: flex;
+	flex-direction: column;
+}
+
+.banner img {
+	height: 80vh;
+}
+
+.name {
+	color: var(--color-fg);
+	font-family: var(--font-hero);
+	font-size: 2.5rem;
+	margin-bottom: 1rem;
+}
+
+.desc {
+	color: var(--color-fg-sub);
+	margin-bottom: 2rem;
+}
+
+.revText{
+	text-align: right;
+}
+
+.banner button.revBtn {
+	align-self: flex-start;
+}
+
+.banner .button {
+	font-family: var(--font-hero);
+	font-size: 1rem;
+	align-self: flex-end;
+	padding: 1rem 2rem;
+	border-radius: 0.5rem;
+	border: none;
+	cursor: pointer;
+	color: var(--color-bg);
+	transition: all 0.3s ease;
+	background-color: var(--color-fg);
+}
+
+.banner .button:hover {
+	background-color: var(--color-acc);
+}
+

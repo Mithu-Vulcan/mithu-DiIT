@@ -8,3 +8,4 @@ fetch("config.json")
 .catch((err) => console.error("Failed to load config: ", err));
 
 import "./components/header.js"
+import "./components/banner.js"

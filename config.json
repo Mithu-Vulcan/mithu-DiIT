@@ -1,10 +1,20 @@
 {
-    "name": "Jonas",
-    "nav" : {
-        "New" : "new.html",
-        "Deals" : "deals.html",
-        "Men" : "men.html",
-        "Women" : "women.html",
-        "Kids" : "kids.html"
-    }
+	"name": "Jonas",
+	"nav": {
+		"New": "new.html",
+		"Deals": "deals.html",
+		"Men": "men.html",
+		"Women": "women.html",
+		"Kids": "kids.html",
+		"Accessories": "accessories.html"
+	},
+	"banner": {
+		"Men": "Step into timeless style with JONAS Men. From sharp everyday essentials to standout statement pieces, our collection blends comfort, quality, and bold design. Whether you're dressing for work, weekends, or workouts, JONAS Men brings you versatile fashion with a modern edge. Discover the confidence that comes with wearing what feels right. Elevate your wardrobe—this is where your signature style begins.",
+
+		"Women": "Express your individuality with JONAS Women. Our collection celebrates bold, effortless beauty with pieces that move with you—through workdays, weekends, and everything in between. Discover flattering cuts, flowing fabrics, and thoughtful details designed to empower. From minimal chic to eye-catching elegance, JONAS Women offers style without compromise. Because you don’t just follow trends—you set them.",
+
+		"Kids": "Fun, comfy, and built to last—JONAS Kids is where playful spirit meets everyday practicality. Our range is made for adventures big and small, with colorful, durable styles kids love and parents trust. From school days to playdates, we’ve got them covered in all seasons. Let their personalities shine with clothes that are just as bold and bright as they are.",
+
+		"Accessories": "Complete your look with JONAS Accessories—the final touch that makes all the difference. Whether it’s a sleek bag, a statement piece of jewelry, or everyday essentials with a twist, our collection is designed to enhance, not overwhelm. Add flair, function, and personality to every outfit. Because at JONAS, we believe the right accessory doesn’t just match—it transforms."
+	}
 }
