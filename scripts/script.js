@@ -10,3 +10,5 @@ fetch("config.json")
 import "./components/header.js"
 import "./components/banner.js"
 import "./components/offer.js"
+import "./components/review.js"
+import "./components/footer.js"

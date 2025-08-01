@@ -222,3 +222,88 @@ a {
 .banner:hover {
 	scale: 1.008;
 }
+
+/*#########################*/
+
+.reviewSection {
+	background-color: var(--color-bg-sub);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: var(--color-fg-sub);
+	margin: 1rem 0;
+}
+
+.reviewHead {
+	color: var(--color-fg);
+	font-size: 1.1rem;
+	margin: 2rem 0;
+}
+
+.reviewText {
+	width: 60%;
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+.reviewName {
+	margin-bottom: 2rem;
+}
+
+/*################*/
+
+.footerSection {
+	display: flex;
+	padding: 2rem;
+	color: var(--color-fg-sub);
+}
+
+.L, .M, .R {
+	display: flex;
+	flex-direction: column;
+	width: 33%;
+}
+
+.footerLogo {
+	font-family: var(--font-logo);
+	font-size: 3rem;margin-bottom: 2rem;
+	color: var(--color-fg);
+}
+
+.footerName {
+	font-size: 1rem;
+}
+
+.footerMail {
+	margin-bottom: 2rem;
+}
+
+.socials {
+	display: flex;
+	width: 100%;
+	gap: 1rem;
+}
+
+
+.socials img {
+	width: 2rem;
+	transition: all 0.3s ease;
+}
+
+.socials img:hover {
+	scale: 1.1;
+}
+
+.quicklinkHead, .aboutHead {
+	color: var(--color-fg);
+	margin-bottom: 1rem;
+	font-size: 1.125rem;
+}
+
+.quicklinkItem {
+	transition: all 0.3s ease;
+}
+
+.quicklinkItem:hover {
+	color: var(--color-acc);
+}

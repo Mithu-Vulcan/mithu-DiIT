@@ -7,10 +7,12 @@ class Banner extends HTMLElement {
 
 	render() {
 		const config = window.siteConfig;
+		if (!config || !config.nav) return;
 		const name = this.getAttribute("name") || "Default";
         const lowerName = name.toLowerCase()
 		const rev = this.hasAttribute("rev");
-		if (!config || !config.nav) return;
+		const logo = config.name
+		const logoUpper = logo.toUpperCase()
 
         const desc = config.banner[name]
         console.log(rev)
@@ -18,7 +20,7 @@ class Banner extends HTMLElement {
 		const htmlString = `
             <section class="banner ${rev ? "bannerReverse": "" }" id="${lowerName}-banner">
 			<div class="bannerText">
-				<p class="name ${rev ? "revText": "" }">JONAS ${name}</p>
+				<p class="name ${rev ? "revText": "" }">${logoUpper} ${name}</p>
 				<p class="desc ${rev ? "revText": "" }">
 					${desc}
 				</p>

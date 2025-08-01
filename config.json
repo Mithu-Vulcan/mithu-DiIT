@@ -1,12 +1,13 @@
 {
 	"name": "Jonas",
 	"phone": "+94 76 158 2317",
+	"gmail": "mithushanthjonathanparrot@gmail.com",
 	"ig": "https://www.instagram.com/j.j.m.shanth_0310/",
 	"gh": "https://github.com/Mithu-Vulcan",
 	"wp": "https://wa.me/94761582317",
 	"offerText": "FREE SHIPPING OVER RS.10,000.00 / WE SHIP ISLANDWIDE",
 	"nav": {
-		"New": "new.html",
+		"New arraivals": "new.html",
 		"Deals": "deals.html",
 		"Men": "men.html",
 		"Women": "women.html",
@@ -21,5 +22,7 @@
 		"Kids": "Fun, comfy, and built to last—JONAS Kids is where playful spirit meets everyday practicality. Our range is made for adventures big and small, with colorful, durable styles kids love and parents trust. From school days to playdates, we’ve got them covered in all seasons. Let their personalities shine with clothes that are just as bold and bright as they are.",
 
 		"Accessories": "Complete your look with JONAS Accessories—the final touch that makes all the difference. Whether it’s a sleek bag, a statement piece of jewelry, or everyday essentials with a twist, our collection is designed to enhance, not overwhelm. Add flair, function, and personality to every outfit. Because at JONAS, we believe the right accessory doesn’t just match—it transforms."
-	}
+	},
+	"review": "If I could give Jonas more than 5 stars, I absolutely would! I've placed a few orders already and recently started browsing through their site more often — it's seriously a game-changer. I love how smoothly everything works, from the clean layout to the easy navigation across Men, Women, Kids, and Accessories sections. What really impressed me is how quickly they ship, and the fact that they offer free shipping over Rs.10,000 is just the cherry on top. The quality of the products is top-notch, and the offers they provide make shopping feel even more worth it! Thanks to Jonas, shopping for my entire family has never been easier or more stylish. The collections are clearly picked with care and trend in mind — every piece feels like it belongs in my wardrobe. I’ll definitely be shopping here again and again.",
+	"about": "Jonas brings style for the whole squad — Men, Women, Kids, and even your accessories! From fresh fits to fab deals (plus free shipping over Rs.10,000!), we make shopping feel like a treat. Trendy, comfy, and always on point — that’s how we roll."
 }
