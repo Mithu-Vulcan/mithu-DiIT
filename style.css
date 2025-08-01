@@ -29,6 +29,18 @@ a {
 	color: inherit;
 }
 
+/*########################*/
+
+.offerStrip {
+	background-color: var(--color-acc);
+	text-align: center;
+	font-weight: 600;
+	color: var(--color-fg);
+	padding: 0.5rem;
+}
+
+/*########################*/
+
 .headerSection {
 	display: flex;
 	justify-content: space-between;
@@ -151,6 +163,7 @@ a {
 	border: var(--color-fg-sub) solid 1px;
 	justify-content: space-between;
 	align-items: center;
+	transition: scale 0.3s ease;
 }
 
 .bannerReverse {
@@ -206,3 +219,6 @@ a {
 	background-color: var(--color-acc);
 }
 
+.banner:hover {
+	scale: 1.008;
+}

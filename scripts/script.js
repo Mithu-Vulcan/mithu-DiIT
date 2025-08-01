@@ -9,3 +9,4 @@ fetch("config.json")
 
 import "./components/header.js"
 import "./components/banner.js"
+import "./components/offer.js"
