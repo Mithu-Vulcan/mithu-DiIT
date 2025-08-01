@@ -24,5 +24,91 @@
 		"Accessories": "Complete your look with JONAS Accessories—the final touch that makes all the difference. Whether it’s a sleek bag, a statement piece of jewelry, or everyday essentials with a twist, our collection is designed to enhance, not overwhelm. Add flair, function, and personality to every outfit. Because at JONAS, we believe the right accessory doesn’t just match—it transforms."
 	},
 	"review": "If I could give Jonas more than 5 stars, I absolutely would! I've placed a few orders already and recently started browsing through their site more often — it's seriously a game-changer. I love how smoothly everything works, from the clean layout to the easy navigation across Men, Women, Kids, and Accessories sections. What really impressed me is how quickly they ship, and the fact that they offer free shipping over Rs.10,000 is just the cherry on top. The quality of the products is top-notch, and the offers they provide make shopping feel even more worth it! Thanks to Jonas, shopping for my entire family has never been easier or more stylish. The collections are clearly picked with care and trend in mind — every piece feels like it belongs in my wardrobe. I’ll definitely be shopping here again and again.",
-	"about": "Jonas brings style for the whole squad — Men, Women, Kids, and even your accessories! From fresh fits to fab deals (plus free shipping over Rs.10,000!), we make shopping feel like a treat. Trendy, comfy, and always on point — that’s how we roll."
+	"about": "Jonas brings style for the whole squad — Men, Women, Kids, and even your accessories! From fresh fits to fab deals (plus free shipping over Rs.10,000!), we make shopping feel like a treat. Trendy, comfy, and always on point — that’s how we roll.",
+	"men-items": [
+		{
+			"name": "Basic embossed oversized tee",
+			"price": 3490,
+			"stock": 23,
+			"discount": false,
+			"path": "assets/men/DKDC Basic Embossed Printed Oversize Men's Tshirt.webp"
+		},
+		{
+			"name": "College eagles long sleeve tee",
+			"price": 4290,
+			"stock": 12,
+			"discount": true,
+			"path": "assets/men/DKDC College Eagles Long Sleeve Blue T-Shirt.webp"
+		},
+		{
+			"name": "Grey sporty casual shorts",
+			"price": 3190,
+			"stock": 19,
+			"discount": false,
+			"path": "assets/men/DKDC Grey Short.webp"
+		},
+		{
+			"name": "Pink comfy summer shorts",
+			"price": 3050,
+			"stock": 8,
+			"discount": false,
+			"path": "assets/men/DKDC Pink Short.webp"
+		},
+		{
+			"name": "Textured oversized street tee",
+			"price": 4780,
+			"stock": 33,
+			"discount": true,
+			"path": "assets/men/DKDC Textured Oversized T-shirt.webp"
+		},
+		{
+			"name": "Heavy cotton mock-neck tee",
+			"price": 4590,
+			"stock": 17,
+			"discount": false,
+			"path": "assets/men/Heavy weight Cotton Mock-Neck T-Shirt.webp"
+		},
+		{
+			"name": "Green round neck basic tee",
+			"price": 3690,
+			"stock": 27,
+			"discount": false,
+			"path": "assets/men/Men New Design Round Neck Green T-Shirt.webp"
+		},
+		{
+			"name": "Striped casual short sleeve shirt",
+			"price": 3990,
+			"stock": 14,
+			"discount": true,
+			"path": "assets/men/Men's Casual Short Sleeve Brown And White Striped Shirt.webp"
+		},
+		{
+			"name": "Washed blue denim shorts",
+			"price": 3850,
+			"stock": 21,
+			"discount": false,
+			"path": "assets/men/Men's Casual Wash Jeans Shorts.webp"
+		},
+		{
+			"name": "Regular fit flex chinos",
+			"price": 4420,
+			"stock": 16,
+			"discount": false,
+			"path": "assets/men/Men's Regular Flex Chino Smart Pant.webp"
+		},
+		{
+			"name": "Dark blue regular jeans",
+			"price": 3990,
+			"stock": 44,
+			"discount": false,
+			"path": "assets/men/Men's Regular Men Dark Blue Jeans.webp"
+		},
+		{
+			"name": "High quality textured shirt",
+			"price": 4890,
+			"stock": 9,
+			"discount": false,
+			"path": "assets/men/NEW MEN'S HIGH QUALITY TEXTURE FABRICS SHIRT.webp"
+		}
+	]
 }
