@@ -110,5 +110,172 @@
 			"discount": false,
 			"path": "assets/men/NEW MEN'S HIGH QUALITY TEXTURE FABRICS SHIRT.webp"
 		}
+	],
+	"women-items": [
+		{
+			"name": "Beige gathered mini skirt",
+			"price": 3950,
+			"stock": 22,
+			"discount": false,
+			"path": "assets/women/Beige Bubble Hem Nude Gathered Mini Skirt.webp"
+		},
+		{
+			"name": "Pink cropped long sleeve top",
+			"price": 4150,
+			"stock": 18,
+			"discount": true,
+			"path": "assets/women/Pink STRONGER Cropped Long Sleeve Top.webp"
+		},
+		{
+			"name": "Pink floral collared shirt",
+			"price": 4490,
+			"stock": 11,
+			"discount": false,
+			"path": "assets/women/Women's Pink Collared Shirt with Embroidered Floral Detail.webp"
+		},
+		{
+			"name": "Beige ribbed long sleeve crop",
+			"price": 3690,
+			"stock": 27,
+			"discount": false,
+			"path": "assets/women/Beige Ribbed Crop Top with Long Sleeves.webp"
+		},
+		{
+			"name": "Red shoulder cut-out crop top",
+			"price": 4790,
+			"stock": 9,
+			"discount": true,
+			"path": "assets/women/Red Sleeveless Crop Top with Unique Shoulder Cut-Out.webp"
+		},
+		{
+			"name": "Pink drawstring cargo pants",
+			"price": 4950,
+			"stock": 33,
+			"discount": false,
+			"path": "assets/women/Women's Pink Drawstring Cargo Pants.webp"
+		},
+		{
+			"name": "New York slogan hoodie tee",
+			"price": 3880,
+			"stock": 20,
+			"discount": false,
+			"path": "assets/women/Casual New York Slogan Hoodie T-Shirt.webp"
+		},
+		{
+			"name": "Taupe blouse with buttons",
+			"price": 3590,
+			"stock": 15,
+			"discount": false,
+			"path": "assets/women/Women's Taupe Professional Blouse with Button Detail.webp"
+		},
+		{
+			"name": "Khaki green fitted crop top",
+			"price": 3290,
+			"stock": 40,
+			"discount": true,
+			"path": "assets/women/Fitted Sleeveless Crop Top in Khaki Green.webp"
+		},
+		{
+			"name": "Black sleeveless crop top",
+			"price": 3420,
+			"stock": 25,
+			"discount": false,
+			"path": "assets/women/Women's Black Sleeveless Crop Top.webp"
+		},
+		{
+			"name": "Flawless ribbed mini dress",
+			"price": 4810,
+			"stock": 13,
+			"discount": false,
+			"path": "assets/women/Flawless Ribbed Long Sleeve Mini Dress.webp"
+		},
+		{
+			"name": "Grey ribbed sleeveless polo",
+			"price": 4090,
+			"stock": 7,
+			"discount": false,
+			"path": "assets/women/Women's Grey Ribbed Polo Crop Top - Sleeveless Collared Tank.webp"
+		}
+	],
+	"kids-items": [
+		{
+			"name": "Beige casual twill joggers",
+			"price": 3990,
+			"stock": 18,
+			"discount": false,
+			"path": "assets/kids/Beige Twill Joggers.avif"
+		},
+		{
+			"name": "Crochet-style open cardigan",
+			"price": 3250,
+			"stock": 11,
+			"discount": true,
+			"path": "assets/kids/Crochet-Look Cardigan.webp"
+		},
+		{
+			"name": "Classic flared leg jeans",
+			"price": 4780,
+			"stock": 27,
+			"discount": false,
+			"path": "assets/kids/Flared Leg Jeans.avif"
+		},
+		{
+			"name": "Elegant peplum fit blouse",
+			"price": 3550,
+			"stock": 7,
+			"discount": false,
+			"path": "assets/kids/Peplum blouse.avif"
+		},
+		{
+			"name": "Colorful printed hoodie",
+			"price": 4690,
+			"stock": 32,
+			"discount": true,
+			"path": "assets/kids/Printed Hoodie.avif"
+		},
+		{
+			"name": "Warm waffle-knit sweater",
+			"price": 3840,
+			"stock": 22,
+			"discount": false,
+			"path": "assets/kids/Waffle-knit Henley Sweater.avif"
+		}
+	],
+	"accessories-items": [
+		{
+			"name": "Rolex Oyster Perpetual 41",
+			"price": 2380000,
+			"stock": 2,
+			"discount": false,
+			"path": "assets/accessories/Rolex Oyster Perpetual 41.avif"
+		},
+		{
+			"name": "Retro flower blue earrings",
+			"price": 4200,
+			"stock": 15,
+			"discount": true,
+			"path": "assets/accessories/Women Retro Flower Blue Contrast Color Round Square Earrings.webp"
+		},
+		{
+			"name": "Black heart layered necklace",
+			"price": 4900,
+			"stock": 9,
+			"discount": false,
+			"path": "assets/accessories/Linawe Black Heart Layered Necklaces.webp"
+		},
+		{
+			"name": "Rolex Yacht-Master 42",
+			"price": 5760000,
+			"stock": 1,
+			"discount": false,
+			"path": "assets/accessories/Rolex Yacht-Master 42.avif"
+		},
+		{
+			"name": "Rolex Deepsea",
+			"price": 4200000,
+			"stock": 1,
+			"discount": false,
+			"path": "assets/accessories/Rolex Deepsea.avif"
+		}
 	]
 }
