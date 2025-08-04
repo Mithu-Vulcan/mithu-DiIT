@@ -7,8 +7,8 @@
 	"wp": "https://wa.me/94761582317",
 	"offerText": "FREE SHIPPING OVER RS.10,000.00 / WE SHIP ISLANDWIDE",
 	"nav": {
-		"New arraivals": "new.html",
-		"Deals": "deals.html",
+		"New arraivals": "new.html#new",
+		"Deals": "new.html#deals",
 		"Men": "men.html",
 		"Women": "women.html",
 		"Kids": "kids.html",

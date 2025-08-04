@@ -12,13 +12,15 @@ class CustomHeader extends HTMLElement {
 		let navList = "";
 		for (const [name, link] of Object.entries(config.nav)) {
 			navList += `
-                <a href="/pages/${link}" target="_blank"><p class="navItem">${name}</p></a>
+                <a href="/${link}" target="_blank"><p class="navItem">${name}</p></a>
             `;
 		}
 
 		const htmlString = `
             <section class="headerSection">
-                <div class="logo">${config.name}</div>
+                <a href="/">
+					<div class="logo">${config.name}</div>
+				</a>
                 <div class="navItems">
                     ${navList}
                 </div>

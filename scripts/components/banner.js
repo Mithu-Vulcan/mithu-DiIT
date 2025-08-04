@@ -24,7 +24,7 @@ class Banner extends HTMLElement {
 				<p class="desc ${rev ? "revText": "" }">
 					${desc}
 				</p>
-				<button class="button ${rev ? "revBtn": "" }" onclick="location.href='/pages/${lowerName}.html'">
+				<button class="button ${rev ? "revBtn": "" }" onclick="location.href='/${lowerName}.html'">
 					Go to Page
 				</button>
 			</div>
