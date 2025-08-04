@@ -24,7 +24,7 @@ class Footer extends HTMLElement {
 		let navList = "";
 		for (const [name, link] of Object.entries(config.nav)) {
 			navList += `
-                <a href="/${link}" target="_blank"><p class="quicklinkItem">${name}</p></a>
+                <a href="${link}" target="_blank"><p class="quicklinkItem">${name}</p></a>
             `;
 		}
 
