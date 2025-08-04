@@ -10,19 +10,70 @@ class CustomCat extends HTMLElement {
 		if (!config || !config.nav) return;
 
 		const cat = this.getAttribute("cat");
+		const cats = ["men", "women", "kids", "accessories"];
 
 		let cards = "";
 
-		for (const item of config[`${cat}-items`]) {
-			console.log(item.name);
-			
-			// Escape attribute values to handle quotes and special characters
-			const escapedName = item.name.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
-			const escapedPath = item.path.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
-			
-			            cards += `
-                <custom-card name="${escapedName}" price="${item.price}" units="${item.stock}" path="${escapedPath}" ${item.discount ? "disc" : ""} percentage="30"></custom-card>
-            `;
+		if (cat == "deals") {
+			cats.forEach((cat) => {
+				for (const item of config[`${cat}-items`]) {
+					// Escape attribute values to handle quotes and special characters
+					const escapedName = item.name
+						.replace(/"/g, "&quot;")
+						.replace(/'/g, "&#39;");
+					const escapedPath = item.path
+						.replace(/"/g, "&quot;")
+						.replace(/'/g, "&#39;");
+					if (item.discount) {
+						cards += `
+						<custom-card name="${escapedName}" price="${item.price}" units="${
+							item.stock
+						}" path="${escapedPath}" ${
+							item.discount ? "disc" : ""
+						} percentage="30"></custom-card>`;
+					}
+				}
+			})
+		} else if (cat == "new") {
+			cats.forEach((cat) => {
+				for (let i = 0; i < 1; i++) {
+					for (const item of config[`${cat}-items`].slice(0,2)) {
+						// Escape attribute values to handle quotes and special characters
+						const escapedName = item.name
+							.replace(/"/g, "&quot;")
+							.replace(/'/g, "&#39;");
+						const escapedPath = item.path
+							.replace(/"/g, "&quot;")
+							.replace(/'/g, "&#39;");
+
+						cards += `
+					<custom-card name="${escapedName}" price="${item.price}" units="${
+							item.stock
+						}" path="${escapedPath}" ${
+							item.discount ? "disc" : ""
+						} percentage="30"></custom-card>
+				`;
+					}
+				}
+			});
+		} else {
+			for (const item of config[`${cat}-items`]) {
+				// Escape attribute values to handle quotes and special characters
+				const escapedName = item.name
+					.replace(/"/g, "&quot;")
+					.replace(/'/g, "&#39;");
+				const escapedPath = item.path
+					.replace(/"/g, "&quot;")
+					.replace(/'/g, "&#39;");
+
+				cards += `
+					<custom-card name="${escapedName}" price="${item.price}" units="${
+					item.stock
+				}" path="${escapedPath}" ${
+					item.discount ? "disc" : ""
+				} percentage="30"></custom-card>
+				`;
+			}
 		}
 
 		const htmlString = `
