@@ -15,7 +15,6 @@
 	--font-hero: "Anton";
 
 	--padding-banner: 2rem;
-
 }
 
 * {
@@ -197,7 +196,7 @@ a {
 	margin-bottom: 2rem;
 }
 
-.revText{
+.revText {
 	text-align: right;
 }
 
@@ -261,7 +260,9 @@ a {
 	color: var(--color-fg-sub);
 }
 
-.L, .M, .R {
+.L,
+.M,
+.R {
 	display: flex;
 	flex-direction: column;
 	width: 33%;
@@ -269,7 +270,8 @@ a {
 
 .footerLogo {
 	font-family: var(--font-logo);
-	font-size: 3rem;margin-bottom: 2rem;
+	font-size: 3rem;
+	margin-bottom: 2rem;
 	color: var(--color-fg);
 }
 
@@ -287,7 +289,6 @@ a {
 	gap: 1rem;
 }
 
-
 .socials img {
 	width: 2rem;
 	transition: all 0.3s ease;
@@ -297,7 +298,8 @@ a {
 	scale: 1.1;
 }
 
-.quicklinkHead, .aboutHead {
+.quicklinkHead,
+.aboutHead {
 	color: var(--color-fg);
 	margin-bottom: 1rem;
 	font-size: 1.125rem;
@@ -390,4 +392,110 @@ a {
 
 .less {
 	color: var(--color-red);
+}
+
+/*#############Product Page#############*/
+
+.productDiv {
+	width: 80%;
+	display: flex;
+	margin-left: 10%;
+	margin-top: 3rem;
+}
+
+.productImgs {
+	display: flex;
+	width: 50%;
+	flex-wrap: wrap;
+}
+
+.productImgs img {
+	width: 40%;
+	margin: 0.5rem;
+}
+
+.productTexts {
+	width: 50%;
+	flex-wrap: wrap;
+	color: var(--color-fg-sub);
+}
+
+.productTitle {
+	color: var(--color-fg);
+	font-size: 2rem;
+}
+
+.productPrice {
+	font-size: 1.125rem;
+	margin-bottom: 1rem;
+}
+
+.productAvailability,
+.productBrand {
+	font-weight: 600;
+	font-size: 0.875rem;
+}
+
+.productButtons {
+	margin-top: 1rem;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 3rem;
+}
+
+.productButtons button {
+	width: 45%;
+	height: 3rem;
+	font-size: 1rem;
+	border-radius: 0.875rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+.buyBtn {
+	border: none;
+	color: var(--color-bg);
+}
+
+.productInfoTitle,
+.deliveryInfoTitle {
+	margin-bottom: 0.625rem;
+	color: var(--color-fg);
+	font-size: 1.25rem;
+	font-weight: 500;
+}
+
+.productInfoText,
+.deliveryInfoText {
+	margin-bottom: 1.125rem;
+	font-size: 0.875rem;
+}
+
+.deliveryInfoSubTitle {
+	font-size: 0.875rem;
+	color: var(--color-fg);
+	text-decoration: underline;
+	margin-left: 1rem;
+	margin-bottom: 0.5rem;
+	font-weight: 600;
+}
+
+.productButtons .buyBtn:hover {
+	background-color: var(--color-acc);
+	color: var(--color-fg);
+}
+
+.cartBtn {
+	background-color: transparent;
+	color: var(--color-fg);
+	border-color: var(--color-fg);
+	border-style: solid;
+	border-width: 1px;
+}
+
+.productButtons .cartBtn:hover {
+	background-color: var(--color-acc);
+	color: var(--color-fg);
+	border: none;
 }
