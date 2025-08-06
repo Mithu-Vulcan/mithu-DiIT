@@ -18,7 +18,7 @@ class CustomHeader extends HTMLElement {
 
 		const htmlString = `
             <section class="headerSection">
-                <a href="/">
+                <a href="index.html">
 					<div class="logo">${config.name}</div>
 				</a>
                 <div class="navItems">
