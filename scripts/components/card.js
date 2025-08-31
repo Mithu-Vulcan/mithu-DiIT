@@ -20,9 +20,9 @@ class CustomCard extends HTMLElement {
 		const name = this.decodeHtmlEntities(
 			this.getAttribute("name") || "Default name"
 		);
-		const price = this.getAttribute("price") || 4000;
-		const percentage = this.getAttribute("percentage") || 30;
-		const units = this.getAttribute("units") || 50;
+		const price = this.getAttribute("price") || 9999;
+		const percentage = this.getAttribute("percentage") || 99;
+		const units = this.getAttribute("units") || 99;
 		const path = this.decodeHtmlEntities(
 			this.getAttribute("path") ||
 				"assets/men/DKDC College Eagles Long Sleeve Blue T-Shirt.webp"
