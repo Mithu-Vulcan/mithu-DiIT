@@ -30,7 +30,7 @@ class CustomCat extends HTMLElement {
 							item.stock
 						}" path="${escapedPath}" ${
 							item.discount ? "disc" : ""
-						} percentage="30"></custom-card>`;
+						} percentage="30" uid=${item.uid}></custom-card>`;
 					}
 				}
 			})
@@ -51,7 +51,7 @@ class CustomCat extends HTMLElement {
 							item.stock
 						}" path="${escapedPath}" ${
 							item.discount ? "disc" : ""
-						} percentage="30"></custom-card>
+						} percentage="30"  uid=${item.uid}></custom-card>
 				`;
 					}
 				}
@@ -71,7 +71,7 @@ class CustomCat extends HTMLElement {
 					item.stock
 				}" path="${escapedPath}" ${
 					item.discount ? "disc" : ""
-				} percentage="30"></custom-card>
+				} percentage="30" uid=${item.uid}></custom-card>
 				`;
 			}
 		}

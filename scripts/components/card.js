@@ -27,6 +27,8 @@ class CustomCard extends HTMLElement {
 			this.getAttribute("path") ||
 				"assets/men/DKDC College Eagles Long Sleeve Blue T-Shirt.webp"
 		);
+		const uid = this.getAttribute("uid") || "101";
+		console.log(uid);
 
 		const nowPrice = (price * (100 - percentage)) / 100;
 
@@ -69,7 +71,7 @@ class CustomCard extends HTMLElement {
 						<p class="cardDesc">${name}</p>
 						${disc ? cardPriceDiscDiv : cardPriceDiv}
 						<p class='cardUnits ${red ? "less" : ""}'>Only ${units} left</p>
-						<a href="product.html"><p class="cardBuy">Buy Now</p></a>
+						<a href="product.html?id=${uid}"><p class="cardBuy">Buy Now</p></a>
 					</div>
 				</div>
         `;

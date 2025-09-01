@@ -1,281 +1,355 @@
 {
-	"name": "Jonas",
-	"phone": "+94 76 158 2317",
-	"gmail": "mithushanthjonathanparrot@gmail.com",
-	"ig": "https://www.instagram.com/j.j.m.shanth_0310/",
-	"gh": "https://github.com/Mithu-Vulcan",
-	"wp": "https://wa.me/94761582317",
-	"offerText": "FREE SHIPPING OVER RS.10,000.00 / WE SHIP ISLANDWIDE",
-	"nav": {
-		"New arraivals": "new.html",
-		"Deals": "deals.html",
-		"Men": "men.html",
-		"Women": "women.html",
-		"Kids": "kids.html",
-		"Accessories": "accessories.html"
-	},
-	"banner": {
-		"Men": "Step into timeless style with JONAS Men. From sharp everyday essentials to standout statement pieces, our collection blends comfort, quality, and bold design. Whether you're dressing for work, weekends, or workouts, JONAS Men brings you versatile fashion with a modern edge. Discover the confidence that comes with wearing what feels right. Elevate your wardrobe—this is where your signature style begins.",
+  "name": "Jonas",
+  "phone": "+94 76 158 2317",
+  "gmail": "mithushanthjonathanparrot@gmail.com",
+  "ig": "https://www.instagram.com/j.j.m.shanth_0310/",
+  "gh": "https://github.com/Mithu-Vulcan",
+  "wp": "https://wa.me/94761582317",
+  "offerText": "FREE SHIPPING OVER RS.10,000.00 / WE SHIP ISLANDWIDE",
+  "nav": {
+    "New arraivals": "new.html",
+    "Deals": "deals.html",
+    "Men": "men.html",
+    "Women": "women.html",
+    "Kids": "kids.html",
+    "Accessories": "accessories.html"
+  },
+  "banner": {
+    "Men": "Step into timeless style with JONAS Men. From sharp everyday essentials to standout statement pieces, our collection blends comfort, quality, and bold design. Whether you're dressing for work, weekends, or workouts, JONAS Men brings you versatile fashion with a modern edge. Discover the confidence that comes with wearing what feels right. Elevate your wardrobe—this is where your signature style begins.",
 
-		"Women": "Express your individuality with JONAS Women. Our collection celebrates bold, effortless beauty with pieces that move with you—through workdays, weekends, and everything in between. Discover flattering cuts, flowing fabrics, and thoughtful details designed to empower. From minimal chic to eye-catching elegance, JONAS Women offers style without compromise. Because you don’t just follow trends—you set them.",
+    "Women": "Express your individuality with JONAS Women. Our collection celebrates bold, effortless beauty with pieces that move with you—through workdays, weekends, and everything in between. Discover flattering cuts, flowing fabrics, and thoughtful details designed to empower. From minimal chic to eye-catching elegance, JONAS Women offers style without compromise. Because you don’t just follow trends—you set them.",
 
-		"Kids": "Fun, comfy, and built to last—JONAS Kids is where playful spirit meets everyday practicality. Our range is made for adventures big and small, with colorful, durable styles kids love and parents trust. From school days to playdates, we’ve got them covered in all seasons. Let their personalities shine with clothes that are just as bold and bright as they are.",
+    "Kids": "Fun, comfy, and built to last—JONAS Kids is where playful spirit meets everyday practicality. Our range is made for adventures big and small, with colorful, durable styles kids love and parents trust. From school days to playdates, we’ve got them covered in all seasons. Let their personalities shine with clothes that are just as bold and bright as they are.",
 
-		"Accessories": "Complete your look with JONAS Accessories—the final touch that makes all the difference. Whether it’s a sleek bag, a statement piece of jewelry, or everyday essentials with a twist, our collection is designed to enhance, not overwhelm. Add flair, function, and personality to every outfit. Because at JONAS, we believe the right accessory doesn’t just match—it transforms."
-	},
-	"review": "If I could give Jonas more than 5 stars, I absolutely would! I've placed a few orders already and recently started browsing through their site more often — it's seriously a game-changer. I love how smoothly everything works, from the clean layout to the easy navigation across Men, Women, Kids, and Accessories sections. What really impressed me is how quickly they ship, and the fact that they offer free shipping over Rs.10,000 is just the cherry on top. The quality of the products is top-notch, and the offers they provide make shopping feel even more worth it! Thanks to Jonas, shopping for my entire family has never been easier or more stylish. The collections are clearly picked with care and trend in mind — every piece feels like it belongs in my wardrobe. I’ll definitely be shopping here again and again.",
-	"about": "Jonas brings style for the whole squad — Men, Women, Kids, and even your accessories! From fresh fits to fab deals (plus free shipping over Rs.10,000!), we make shopping feel like a treat. Trendy, comfy, and always on point — that’s how we roll.",
-	"men-items": [
-		{
-			"name": "Basic embossed oversized tee",
-			"price": 3490,
-			"stock": 23,
-			"discount": false,
-			"path": "assets/men/DKDC Basic Embossed Printed Oversize Men's Tshirt.webp"
-		},
-		{
-			"name": "College eagles long sleeve tee",
-			"price": 4290,
-			"stock": 12,
-			"discount": true,
-			"path": "assets/men/DKDC College Eagles Long Sleeve Blue T-Shirt.webp"
-		},
-		{
-			"name": "Grey sporty casual shorts",
-			"price": 3190,
-			"stock": 19,
-			"discount": false,
-			"path": "assets/men/DKDC Grey Short.webp"
-		},
-		{
-			"name": "Pink comfy summer shorts",
-			"price": 3050,
-			"stock": 8,
-			"discount": false,
-			"path": "assets/men/DKDC Pink Short.webp"
-		},
-		{
-			"name": "Textured oversized street tee",
-			"price": 4780,
-			"stock": 33,
-			"discount": true,
-			"path": "assets/men/DKDC Textured Oversized T-shirt.webp"
-		},
-		{
-			"name": "Heavy cotton mock-neck tee",
-			"price": 4590,
-			"stock": 17,
-			"discount": false,
-			"path": "assets/men/Heavy weight Cotton Mock-Neck T-Shirt.webp"
-		},
-		{
-			"name": "Green round neck basic tee",
-			"price": 3690,
-			"stock": 27,
-			"discount": false,
-			"path": "assets/men/Men New Design Round Neck Green T-Shirt.webp"
-		},
-		{
-			"name": "Striped casual short sleeve shirt",
-			"price": 3990,
-			"stock": 14,
-			"discount": true,
-			"path": "assets/men/Men's Casual Short Sleeve Brown And White Striped Shirt.webp"
-		},
-		{
-			"name": "Washed blue denim shorts",
-			"price": 3850,
-			"stock": 21,
-			"discount": false,
-			"path": "assets/men/Men's Casual Wash Jeans Shorts.webp"
-		},
-		{
-			"name": "Regular fit flex chinos",
-			"price": 4420,
-			"stock": 16,
-			"discount": false,
-			"path": "assets/men/Men's Regular Flex Chino Smart Pant.webp"
-		},
-		{
-			"name": "Dark blue regular jeans",
-			"price": 3990,
-			"stock": 44,
-			"discount": false,
-			"path": "assets/men/Men's Regular Men Dark Blue Jeans.webp"
-		},
-		{
-			"name": "High quality textured shirt",
-			"price": 4890,
-			"stock": 9,
-			"discount": false,
-			"path": "assets/men/NEW MEN'S HIGH QUALITY TEXTURE FABRICS SHIRT.webp"
-		}
-	],
-	"women-items": [
-		{
-			"name": "Beige gathered mini skirt",
-			"price": 3950,
-			"stock": 22,
-			"discount": false,
-			"path": "assets/women/Beige Bubble Hem Nude Gathered Mini Skirt.webp"
-		},
-		{
-			"name": "Pink cropped long sleeve top",
-			"price": 4150,
-			"stock": 18,
-			"discount": true,
-			"path": "assets/women/Pink STRONGER Cropped Long Sleeve Top.webp"
-		},
-		{
-			"name": "Pink floral collared shirt",
-			"price": 4490,
-			"stock": 11,
-			"discount": false,
-			"path": "assets/women/Women's Pink Collared Shirt with Embroidered Floral Detail.webp"
-		},
-		{
-			"name": "Beige ribbed long sleeve crop",
-			"price": 3690,
-			"stock": 27,
-			"discount": false,
-			"path": "assets/women/Beige Ribbed Crop Top with Long Sleeves.webp"
-		},
-		{
-			"name": "Red shoulder cut-out crop top",
-			"price": 4790,
-			"stock": 9,
-			"discount": true,
-			"path": "assets/women/Red Sleeveless Crop Top with Unique Shoulder Cut-Out.webp"
-		},
-		{
-			"name": "Pink drawstring cargo pants",
-			"price": 4950,
-			"stock": 33,
-			"discount": false,
-			"path": "assets/women/Women's Pink Drawstring Cargo Pants.webp"
-		},
-		{
-			"name": "New York slogan hoodie tee",
-			"price": 3880,
-			"stock": 20,
-			"discount": false,
-			"path": "assets/women/Casual New York Slogan Hoodie T-Shirt.webp"
-		},
-		{
-			"name": "Taupe blouse with buttons",
-			"price": 3590,
-			"stock": 15,
-			"discount": false,
-			"path": "assets/women/Women's Taupe Professional Blouse with Button Detail.webp"
-		},
-		{
-			"name": "Khaki green fitted crop top",
-			"price": 3290,
-			"stock": 40,
-			"discount": true,
-			"path": "assets/women/Fitted Sleeveless Crop Top in Khaki Green.webp"
-		},
-		{
-			"name": "Black sleeveless crop top",
-			"price": 3420,
-			"stock": 25,
-			"discount": false,
-			"path": "assets/women/Women's Black Sleeveless Crop Top.webp"
-		},
-		{
-			"name": "Flawless ribbed mini dress",
-			"price": 4810,
-			"stock": 13,
-			"discount": false,
-			"path": "assets/women/Flawless Ribbed Long Sleeve Mini Dress.webp"
-		},
-		{
-			"name": "Grey ribbed sleeveless polo",
-			"price": 4090,
-			"stock": 7,
-			"discount": false,
-			"path": "assets/women/Women's Grey Ribbed Polo Crop Top - Sleeveless Collared Tank.webp"
-		}
-	],
-	"kids-items": [
-		{
-			"name": "Beige casual twill joggers",
-			"price": 3990,
-			"stock": 18,
-			"discount": false,
-			"path": "assets/kids/Beige Twill Joggers.avif"
-		},
-		{
-			"name": "Crochet-style open cardigan",
-			"price": 3250,
-			"stock": 11,
-			"discount": true,
-			"path": "assets/kids/Crochet-Look Cardigan.webp"
-		},
-		{
-			"name": "Classic flared leg jeans",
-			"price": 4780,
-			"stock": 27,
-			"discount": false,
-			"path": "assets/kids/Flared Leg Jeans.avif"
-		},
-		{
-			"name": "Elegant peplum fit blouse",
-			"price": 3550,
-			"stock": 7,
-			"discount": false,
-			"path": "assets/kids/Peplum blouse.avif"
-		},
-		{
-			"name": "Colorful printed hoodie",
-			"price": 4690,
-			"stock": 32,
-			"discount": true,
-			"path": "assets/kids/Printed Hoodie.avif"
-		},
-		{
-			"name": "Warm waffle-knit sweater",
-			"price": 3840,
-			"stock": 22,
-			"discount": false,
-			"path": "assets/kids/Waffle-knit Henley Sweater.avif"
-		}
-	],
-	"accessories-items": [
-		{
-			"name": "Rolex Oyster Perpetual 41",
-			"price": 2380000,
-			"stock": 2,
-			"discount": false,
-			"path": "assets/accessories/Rolex Oyster Perpetual 41.avif"
-		},
-		{
-			"name": "Retro flower blue earrings",
-			"price": 4200,
-			"stock": 15,
-			"discount": true,
-			"path": "assets/accessories/Women Retro Flower Blue Contrast Color Round Square Earrings.webp"
-		},
-		{
-			"name": "Black heart layered necklace",
-			"price": 4900,
-			"stock": 9,
-			"discount": false,
-			"path": "assets/accessories/Linawe Black Heart Layered Necklaces.webp"
-		},
-		{
-			"name": "Rolex Yacht-Master 42",
-			"price": 5760000,
-			"stock": 1,
-			"discount": false,
-			"path": "assets/accessories/Rolex Yacht-Master 42.avif"
-		},
-		{
-			"name": "Rolex Deepsea",
-			"price": 4200000,
-			"stock": 1,
-			"discount": false,
-			"path": "assets/accessories/Rolex Deepsea.avif"
-		}
-	]
+    "Accessories": "Complete your look with JONAS Accessories—the final touch that makes all the difference. Whether it’s a sleek bag, a statement piece of jewelry, or everyday essentials with a twist, our collection is designed to enhance, not overwhelm. Add flair, function, and personality to every outfit. Because at JONAS, we believe the right accessory doesn’t just match—it transforms."
+  },
+  "review": "If I could give Jonas more than 5 stars, I absolutely would! I've placed a few orders already and recently started browsing through their site more often — it's seriously a game-changer. I love how smoothly everything works, from the clean layout to the easy navigation across Men, Women, Kids, and Accessories sections. What really impressed me is how quickly they ship, and the fact that they offer free shipping over Rs.10,000 is just the cherry on top. The quality of the products is top-notch, and the offers they provide make shopping feel even more worth it! Thanks to Jonas, shopping for my entire family has never been easier or more stylish. The collections are clearly picked with care and trend in mind — every piece feels like it belongs in my wardrobe. I’ll definitely be shopping here again and again.",
+  "about": "Jonas brings style for the whole squad — Men, Women, Kids, and even your accessories! From fresh fits to fab deals (plus free shipping over Rs.10,000!), we make shopping feel like a treat. Trendy, comfy, and always on point — that’s how we roll.",
+
+  "men-items": [
+    {
+      "uid": "001",
+      "name": "Basic embossed oversized tee",
+      "price": 3490,
+      "stock": 23,
+      "discount": false,
+      "path": "assets/men/DKDC Basic Embossed Printed Oversize Men's Tshirt.webp",
+      "info": "Elevate your casual wardrobe with JONAS' Basic Embossed Oversized Tee. Designed with premium fabric and subtle embossed detail, this versatile piece ensures both comfort and modern street-style appeal."
+    },
+    {
+      "uid": "002",
+      "name": "College eagles long sleeve tee",
+      "price": 4290,
+      "stock": 12,
+      "discount": true,
+      "path": "assets/men/DKDC College Eagles Long Sleeve Blue T-Shirt.webp",
+      "info": "Showcase your sporty side with JONAS’ College Eagles Long Sleeve Tee. Featuring a bold collegiate-inspired design, this piece combines comfort and timeless varsity charm."
+    },
+    {
+      "uid": "003",
+      "name": "Grey sporty casual shorts",
+      "price": 3190,
+      "stock": 19,
+      "discount": false,
+      "path": "assets/men/DKDC Grey Short.webp",
+      "info": "Stay cool and stylish with JONAS’ Grey Sporty Casual Shorts. Crafted for everyday wear, these shorts combine comfort with an active, modern edge."
+    },
+    {
+      "uid": "004",
+      "name": "Pink comfy summer shorts",
+      "price": 3050,
+      "stock": 8,
+      "discount": false,
+      "path": "assets/men/DKDC Pink Short.webp",
+      "info": "Brighten your summer days with JONAS’ Pink Comfy Shorts. Lightweight and breathable, they deliver effortless comfort with a bold touch of color."
+    },
+    {
+      "uid": "005",
+      "name": "Textured oversized street tee",
+      "price": 4780,
+      "stock": 33,
+      "discount": true,
+      "path": "assets/men/DKDC Textured Oversized T-shirt.webp",
+      "info": "Experience urban fashion with JONAS’ Textured Oversized Street Tee. A bold design paired with high-quality texture makes it perfect for modern streetwear enthusiasts."
+    },
+    {
+      "uid": "006",
+      "name": "Heavy cotton mock-neck tee",
+      "price": 4590,
+      "stock": 17,
+      "discount": false,
+      "path": "assets/men/Heavy weight Cotton Mock-Neck T-Shirt.webp",
+      "info": "Upgrade your essentials with JONAS’ Heavy Cotton Mock-Neck Tee. Built from premium cotton, this piece blends durability, style, and elevated minimalism."
+    },
+    {
+      "uid": "007",
+      "name": "Green round neck basic tee",
+      "price": 3690,
+      "stock": 27,
+      "discount": false,
+      "path": "assets/men/Men New Design Round Neck Green T-Shirt.webp",
+      "info": "Freshen up your basics with JONAS’ Green Round Neck Tee. A classic design in a vibrant shade, perfect for layering or wearing solo."
+    },
+    {
+      "uid": "008",
+      "name": "Striped casual short sleeve shirt",
+      "price": 3990,
+      "stock": 14,
+      "discount": true,
+      "path": "assets/men/Men's Casual Short Sleeve Brown And White Striped Shirt.webp",
+      "info": "Add sophistication to your casual look with JONAS’ Striped Short Sleeve Shirt. Lightweight and stylish, it’s ideal for smart-casual occasions."
+    },
+    {
+      "uid": "009",
+      "name": "Washed blue denim shorts",
+      "price": 3850,
+      "stock": 21,
+      "discount": false,
+      "path": "assets/men/Men's Casual Wash Jeans Shorts.webp",
+      "info": "Timeless and versatile, JONAS’ Washed Blue Denim Shorts are crafted for comfort and effortless casual style, making them a wardrobe staple."
+    },
+    {
+      "uid": "010",
+      "name": "Regular fit flex chinos",
+      "price": 4420,
+      "stock": 16,
+      "discount": false,
+      "path": "assets/men/Men's Regular Flex Chino Smart Pant.webp",
+      "info": "Refined yet comfortable, JONAS’ Regular Fit Flex Chinos offer modern tailoring with flexible fabric, perfect for both work and casual wear."
+    },
+    {
+      "uid": "011",
+      "name": "Dark blue regular jeans",
+      "price": 3990,
+      "stock": 44,
+      "discount": false,
+      "path": "assets/men/Men's Regular Men Dark Blue Jeans.webp",
+      "info": "Step into everyday style with JONAS’ Dark Blue Regular Jeans. Durable denim with a timeless wash ensures long-lasting versatility."
+    },
+    {
+      "uid": "012",
+      "name": "High quality textured shirt",
+      "price": 4890,
+      "stock": 9,
+      "discount": false,
+      "path": "assets/men/NEW MEN'S HIGH QUALITY TEXTURE FABRICS SHIRT.webp",
+      "info": "Elevate your smart wardrobe with JONAS’ High Quality Textured Shirt. Crafted with premium fabrics, it delivers sophistication with a modern edge."
+    }
+  ],
+
+  "women-items": [
+    {
+      "uid": "101",
+      "name": "Beige gathered mini skirt",
+      "price": 3950,
+      "stock": 22,
+      "discount": false,
+      "path": "assets/women/Beige Bubble Hem Nude Gathered Mini Skirt.webp",
+      "info": "Refined elegance meets comfort with JONAS’ Beige Gathered Mini Skirt. Its chic design makes it a versatile piece for casual or semi-formal occasions."
+    },
+    {
+      "uid": "102",
+      "name": "Pink cropped long sleeve top",
+      "price": 4150,
+      "stock": 18,
+      "discount": true,
+      "path": "assets/women/Pink STRONGER Cropped Long Sleeve Top.webp",
+      "info": "Chic and modern, JONAS’ Pink Cropped Long Sleeve Top offers a flattering fit with a playful touch, perfect for layering or standalone wear."
+    },
+    {
+      "uid": "103",
+      "name": "Pink floral collared shirt",
+      "price": 4490,
+      "stock": 11,
+      "discount": false,
+      "path": "assets/women/Women's Pink Collared Shirt with Embroidered Floral Detail.webp",
+      "info": "Add a feminine touch to your wardrobe with JONAS’ Pink Floral Collared Shirt. Featuring delicate embroidery, it combines elegance with everyday comfort."
+    },
+    {
+      "uid": "104",
+      "name": "Beige ribbed long sleeve crop",
+      "price": 3690,
+      "stock": 27,
+      "discount": false,
+      "path": "assets/women/Beige Ribbed Crop Top with Long Sleeves.webp",
+      "info": "JONAS’ Beige Ribbed Long Sleeve Crop offers a modern, body-hugging silhouette designed for both comfort and style in every season."
+    },
+    {
+      "uid": "105",
+      "name": "Red shoulder cut-out crop top",
+      "price": 4790,
+      "stock": 9,
+      "discount": true,
+      "path": "assets/women/Red Sleeveless Crop Top with Unique Shoulder Cut-Out.webp",
+      "info": "Make a bold statement with JONAS’ Red Shoulder Cut-Out Crop Top. Its daring design is perfect for confident styling and standout looks."
+    },
+    {
+      "uid": "106",
+      "name": "Pink drawstring cargo pants",
+      "price": 4950,
+      "stock": 33,
+      "discount": false,
+      "path": "assets/women/Women's Pink Drawstring Cargo Pants.webp",
+      "info": "Blend practicality with fashion in JONAS’ Pink Drawstring Cargo Pants. Functional design with a stylish twist makes it a streetwear essential."
+    },
+    {
+      "uid": "107",
+      "name": "New York slogan hoodie tee",
+      "price": 3880,
+      "stock": 20,
+      "discount": false,
+      "path": "assets/women/Casual New York Slogan Hoodie T-Shirt.webp",
+      "info": "Casual and trendy, JONAS’ New York Slogan Hoodie Tee combines everyday comfort with urban-inspired style for a relaxed yet fashionable look."
+    },
+    {
+      "uid": "108",
+      "name": "Taupe blouse with buttons",
+      "price": 3590,
+      "stock": 15,
+      "discount": false,
+      "path": "assets/women/Women's Taupe Professional Blouse with Button Detail.webp",
+      "info": "Sophisticated and versatile, JONAS’ Taupe Blouse with Buttons is perfect for office wear or smart-casual outfits, offering timeless elegance."
+    },
+    {
+      "uid": "109",
+      "name": "Khaki green fitted crop top",
+      "price": 3290,
+      "stock": 40,
+      "discount": true,
+      "path": "assets/women/Fitted Sleeveless Crop Top in Khaki Green.webp",
+      "info": "Refresh your essentials with JONAS’ Khaki Green Fitted Crop Top. A sleek, minimal design that’s easy to style for both casual and chic looks."
+    },
+    {
+      "uid": "110",
+      "name": "Black sleeveless crop top",
+      "price": 3420,
+      "stock": 25,
+      "discount": false,
+      "path": "assets/women/Women's Black Sleeveless Crop Top.webp",
+      "info": "Minimalist and timeless, JONAS’ Black Sleeveless Crop Top is a wardrobe staple, offering effortless versatility for any occasion."
+    },
+    {
+      "uid": "111",
+      "name": "Flawless ribbed mini dress",
+      "price": 4810,
+      "stock": 13,
+      "discount": false,
+      "path": "assets/women/Flawless Ribbed Long Sleeve Mini Dress.webp",
+      "info": "Step into elegance with JONAS’ Flawless Ribbed Mini Dress. Its fitted silhouette and ribbed texture highlight sophistication and modern style."
+    },
+    {
+      "uid": "112",
+      "name": "Grey ribbed sleeveless polo",
+      "price": 4090,
+      "stock": 7,
+      "discount": false,
+      "path": "assets/women/Women's Grey Ribbed Polo Crop Top - Sleeveless Collared Tank.webp",
+      "info": "Smart casual redefined with JONAS’ Grey Ribbed Sleeveless Polo. Featuring a modern cut and collared design, perfect for both casual and chic outfits."
+    }
+  ],
+
+  "kids-items": [
+    {
+      "uid": "201",
+      "name": "Beige casual twill joggers",
+      "price": 3990,
+      "stock": 18,
+      "discount": false,
+      "path": "assets/kids/Beige Twill Joggers.avif",
+      "info": "Designed for comfort and durability, JONAS’ Beige Twill Joggers are perfect for active kids who need freedom of movement without compromising on style."
+    },
+    {
+      "uid": "202",
+      "name": "Crochet-style open cardigan",
+      "price": 3250,
+      "stock": 11,
+      "discount": true,
+      "path": "assets/kids/Crochet-Look Cardigan.webp",
+      "info": "Keep it cozy with JONAS’ Crochet-Style Open Cardigan for kids. Lightweight yet warm, it’s ideal for layering through changing seasons."
+    },
+    {
+      "uid": "203",
+      "name": "Classic flared leg jeans",
+      "price": 4780,
+      "stock": 27,
+      "discount": false,
+      "path": "assets/kids/Flared Leg Jeans.avif",
+      "info": "Retro-inspired and playful, JONAS’ Classic Flared Leg Jeans bring comfort and charm to kids’ wardrobes with their timeless design."
+    },
+    {
+      "uid": "204",
+      "name": "Elegant peplum fit blouse",
+      "price": 3550,
+      "stock": 7,
+      "discount": false,
+      "path": "assets/kids/Peplum blouse.avif",
+      "info": "Add a touch of sophistication to kids’ fashion with JONAS’ Elegant Peplum Fit Blouse. Comfortable and stylish for any occasion."
+    },
+    {
+      "uid": "205",
+      "name": "Colorful printed hoodie",
+      "price": 4690,
+      "stock": 32,
+      "discount": true,
+      "path": "assets/kids/Printed Hoodie.avif",
+      "info": "Bright, fun, and practical — JONAS’ Colorful Printed Hoodie keeps kids warm while letting their personalities shine."
+    },
+    {
+      "uid": "206",
+      "name": "Warm waffle-knit sweater",
+      "price": 3840,
+      "stock": 22,
+      "discount": false,
+      "path": "assets/kids/Waffle-knit Henley Sweater.avif",
+      "info": "Stay cozy in style with JONAS’ Warm Waffle-Knit Sweater for kids. Crafted to provide warmth and comfort during cooler days."
+    }
+  ],
+
+  "accessories-items": [
+    {
+      "uid": "301",
+      "name": "Rolex Oyster Perpetual 41",
+      "price": 2380000,
+      "stock": 2,
+      "discount": false,
+      "path": "assets/accessories/Rolex Oyster Perpetual 41.avif",
+      "info": "A symbol of luxury, the Rolex Oyster Perpetual 41 available at JONAS embodies timeless craftsmanship and prestige in horology."
+    },
+    {
+      "uid": "302",
+      "name": "Retro flower blue earrings",
+      "price": 4200,
+      "stock": 15,
+      "discount": true,
+      "path": "assets/accessories/Women Retro Flower Blue Contrast Color Round Square Earrings.webp",
+      "info": "Delicate and vibrant, JONAS’ Retro Flower Blue Earrings add a charming pop of color to complete any modern outfit."
+    },
+    {
+      "uid": "303",
+      "name": "Black heart layered necklace",
+      "price": 4900,
+      "stock": 9,
+      "discount": false,
+      "path": "assets/accessories/Linawe Black Heart Layered Necklaces.webp",
+      "info": "Chic and romantic, JONAS’ Black Heart Layered Necklace is the perfect accessory to add elegance and personality to your style."
+    },
+    {
+      "uid": "304",
+      "name": "Rolex Yacht-Master 42",
+      "price": 5760000,
+      "stock": 1,
+      "discount": false,
+      "path": "assets/accessories/Rolex Yacht-Master 42.avif",
+      "info": "The Rolex Yacht-Master 42, offered by JONAS, represents ultimate luxury for sea and land, blending bold design with impeccable Swiss precision."
+    },
+    {
+      "uid": "305",
+      "name": "Rolex Deepsea",
+      "price": 4200000,
+      "stock": 1,
+      "discount": false,
+      "path": "assets/accessories/Rolex Deepsea.avif",
+      "info": "Engineered for extreme depths, the Rolex Deepsea at JONAS stands as a professional diver’s watch, combining rugged performance with luxury."
+    }
+  ]
 }
